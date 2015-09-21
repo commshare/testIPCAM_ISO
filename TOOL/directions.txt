@@ -1,0 +1,5 @@
+P2P Series video player plugin oPlayer.msi
+* P2P Series Web browser plug-in. Directly in the IE browser to access the network camera, watch videos used in the plug-in.
+
+
+
